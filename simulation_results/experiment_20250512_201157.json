@@ -1,0 +1,27 @@
+{
+    "timestamp": "20250512_201157",
+    "configuration": {
+        "map": "Town10HD",
+        "use_yolo_yielding": false,
+        "seed": 5,
+        "duration": 0.0,
+        "num_regular_cars": 50
+    },
+    "results": {
+        "ambulance_travel_time": 0.0,
+        "ambulance_status": "success",
+        "simulation_duration": 0.0,
+        "simulation_time": {
+            "value": 625.0458534285426,
+            "unit": "seconds"
+        },
+        "ambulance_total_distance": {
+            "value": 3900.27,
+            "unit": "meters"
+        },
+        "ambulance_average_speed": {
+            "value": 22.46,
+            "unit": "km/h"
+        }
+    }
+}

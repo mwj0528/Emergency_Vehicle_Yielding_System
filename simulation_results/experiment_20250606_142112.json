@@ -1,0 +1,41 @@
+{
+    "timestamp": "20250606_142112",
+    "configuration": {
+        "map": "Town10HD",
+        "use_yolo_yielding": true,
+        "seed": 20,
+        "duration": 0.0,
+        "num_regular_cars": 50
+    },
+    "results": {
+        "ambulance_travel_time": 0.0,
+        "ambulance_status": "success",
+        "simulation_duration": 0.0,
+        "simulation_time": {
+            "value": 372.0690554231405,
+            "unit": "seconds"
+        },
+        "ambulance_total_distance": {
+            "value": 3900.1,
+            "unit": "meters"
+        },
+        "ambulance_average_speed": {
+            "value": 37.74,
+            "unit": "km/h"
+        },
+        "regular_cars_average_speed": {
+            "value": 10.84,
+            "unit": "km/h"
+        },
+        "regular_cars_stats": {
+            "total_cars": 38,
+            "active_cars": 38,
+            "speed_measurements": 7320,
+            "speed_distribution": {
+                "min": 0.0,
+                "max": 29.18,
+                "median": 10.82
+            }
+        }
+    }
+}
